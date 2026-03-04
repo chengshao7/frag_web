@@ -1,0 +1,5 @@
+streamlit==1.52.2
+pandas==2.3.3
+rdkit==2025.9.3
+streamlit-option-menu==0.4.0
+igraph==1.0.0
