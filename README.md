@@ -4,7 +4,7 @@ Molecular fragment generation tool based on RDKit and Streamlit.
 
 ## Installation
 
-Python 3.12 (recommended)/
+Python 3.12 (recommended)
 pip install -r requirements.txt
 
 ## Run
