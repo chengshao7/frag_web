@@ -10,3 +10,6 @@ pip install -r requirements.txt
 ## Run
 
 streamlit run frag_web.py
+## Demo
+
+![Web Demo](images/show.png)
